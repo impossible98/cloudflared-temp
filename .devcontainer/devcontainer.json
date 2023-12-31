@@ -1,0 +1,6 @@
+// More info: https://containers.dev/implementors/json_reference/
+{
+  "name": "cloudflared",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:1-18",
+  "postCreateCommand": "yarn install"
+}
